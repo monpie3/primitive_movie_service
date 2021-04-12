@@ -17,9 +17,9 @@ You have 5 functions to choose from:
 
 
 These functions accept a list of movie titles as an argument:
-<em>display_the_best_rated_IMDB_movie</em> , <em>display_the_highest_grossing_movie</em> 
+<em>display_the_best_rated_IMDB_movie</em> , <em>display_the_highest_grossing_movie</em>. 
 You don't need to download data on selected movies beforehand to use them. (You don't need to use function <em>download_data_about_movies</em> before). 
 
 
 These functions require reading data from a file:
-<em>display_a_list_of_titles_of_saved_movies</em>, <em>display_the_average_rating_of_saved_movies</em> 
+<em>display_a_list_of_titles_of_saved_movies</em>, <em>display_the_average_rating_of_saved_movies</em>.
